@@ -122,7 +122,7 @@ struct ContentView: View {
     func restart() {
         scoreTitle = "You score \(score) points!"
         score = 0
-        round = 0
+        round = 1
     }
 }
 
